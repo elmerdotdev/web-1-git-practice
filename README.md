@@ -7,3 +7,5 @@ This is the second sentence.
 This is the third sentence.
 
 This is the coolest readme file.
+
+This is my new line.
