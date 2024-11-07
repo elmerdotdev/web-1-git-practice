@@ -1,3 +1,7 @@
 function sum(a, b) {
-  return `The sum is: ${a + b}`
+  if (typeof a === number && typeof b === number) {
+    return a + b
+  } else {
+    return "Use numbers only"
+  }
 }
